@@ -1,0 +1,17 @@
+%debug
+
+if you want to make a breakpoint
+import pdb
+pdb.set_trace()
+
+
+
+
+if you want to keep going when debugging
+continue
+
+
+
+go in and out of levels
+d
+u

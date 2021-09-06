@@ -1,0 +1,10 @@
+
+
+You can use numpy's slicing, simply start:stop:step.
+
+ndarray[start:stop:step]
+
+and whatch out with -1 because
+
+[0:-1:2] is not the same as  (this skips the last entry)
+[0::2]     

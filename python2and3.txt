@@ -1,0 +1,13 @@
+11:10
+
+
+base är 2.7
+
+conda activate py3
+
+
+opna spyder från anaconda prompt i environemnt py3
+
+python 3.5 environment är py3
+
+i py3: conda install spyder

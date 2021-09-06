@@ -1,0 +1,22 @@
+in ipython console type:
+
+dir()
+to see a list of all availiable objects e.g. 'loaded' modules, classes, vaiables
+
+
+to get more information about the objects type
+help(objectname)           [Very nice for ptypy they have written documentation strings]
+
+on containers use:
+	P.diff.info()
+to get size, memory usage etc
+
+
+also use print object
+to get info. list the attributes?
+
+CTRL + <RETURN> executes the current cell (menu enty Run -> Run cell). 
+A cell is defined as the code between two lines which start with the agreed tag #%%
+
+Run ptypy in iPython. then you need to open  a new consol (Consoles->open new..)
+and close the old one to be able to run it again. 

@@ -1,0 +1,10 @@
+Enkelt sätt:
+pathToData=r"C:\Users
+
+MEn det funkar inte om din string SLUTAR MED EN /. Detta är längre men funkar alltid:
+myDirname = os.path.normpath("c:/aDirname/")    VA! Nä, funkar ju inte med \ som var problemet från början!
+
+
+
+
+
