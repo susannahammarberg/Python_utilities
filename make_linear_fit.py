@@ -2,8 +2,7 @@
 """
 Created on Tue Jul 09 15:11:28 2019
 
-# first part ok
-# not working just cut out the essential for fitting from other code
+# linear fit
 @author: Sanna
 """
 
